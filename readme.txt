@@ -1,4 +1,4 @@
-Pilcrow's Cogmind-7DRL fonts, release 2017.Jul.30
+Pilcrow's Cogmind-7DRL fonts, release 2017.Jul.31
 -------------------------------------------------
 
 These fonts are intended for the 2012 7-Day Roguelike Challenge prototype of
