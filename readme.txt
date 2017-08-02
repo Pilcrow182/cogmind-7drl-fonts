@@ -1,4 +1,4 @@
-Pilcrow's Cogmind-7DRL fonts, release 2017.Jul.31
+Pilcrow's Cogmind-7DRL fonts, release 2017.Aug.01
 -------------------------------------------------
 
 These fonts are intended for the 2012 7-Day Roguelike Challenge prototype of
@@ -9,14 +9,14 @@ grid of characters in the given font, so many different sizes needed to be made
 for multi-resolution support. Fonts and window sizes are noted below.
 
 The graphical tiles included in this set are partially derived from the ones
-included in the prototype, with the rest created by myself (Pilcrow182).They
-are a 'hybrid' tileset that uses stylized ASCII for enemies while the world
-around them is graphical. After copying the desired font size(s) to the game's
-"fonts" folder, you may press Ctrl+PageUp or Ctrl+PageDown in-game to switch
-between the available fonts, and F3 to enable tiles. You may also switch to
-fullscreen mode by pressing Alt+Enter, but note that entering fullscreen with
-a font too big for your resolution will crash the game (and erase any current
-in-game progress).
+included in the prototype, with the rest created by myself (Pilcrow). They are
+a 'hybrid' tileset that uses stylized ASCII for enemies while the world around
+them is graphical. After copying the desired font size(s) to the game's "fonts"
+folder, you may press Ctrl+PageUp or Ctrl+PageDown in-game to switch between
+the available fonts, and F3 to enable tiles. You may also switch to fullscreen
+mode by pressing Alt+Enter, but note that entering fullscreen with a font too
+big for your resolution will crash the game (and erase any current in-game
+progress).
 
 Standard (4:3) resolutions:
   The  6x6  font will make a  480x360  window (simple tiles),
