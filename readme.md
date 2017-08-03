@@ -1,8 +1,10 @@
-Pilcrow's Cogmind-7DRL fonts, release 2017.Aug.01
+Pilcrow's Cogmind-7DRL fonts, release 2017.Aug.03
 -------------------------------------------------
 
 These fonts are intended for the 2012 7-Day Roguelike Challenge prototype of
-Cogmind, found at http://cogmindrl.blogspot.com/
+Cogmind, found [here](http://cogmindrl.blogspot.com/). You may also view a few
+screenshots for each of the different sizes (both the default and no-gradient
+versions) [here](https://pilcrow182.github.io/cogmind_screenshots/).
 
 The game does not scale to specific resolutions and instead renders an 80x60
 grid of characters in the given font, so many different sizes needed to be made
@@ -19,19 +21,19 @@ big for your resolution will crash the game (and erase any current in-game
 progress).
 
 Standard (4:3) resolutions:
-  The  6x6  font will make a  480x360  window (simple tiles),
-  The  7x7  font will make a  560x420  window (simple tiles),
-  The  8x8  font will make a  640x480  window (simple tiles),
-  The 10x10 font will make a  800x600  window (full tiles),
-  The 12x12 font will make a  960x720  window (full tiles),
-  The 14x14 font will make a 1120x840  window (full tiles),
-  The 16x16 font will make a 1280x960  window (full tiles),
-  The 18x18 font will make a 1440x1080 window (full tiles),
-  The 20x20 font will make a 1600x1200 window (full tiles),
+ * The  6x6  font will make a  480x360  window (simple tiles)
+ * The  7x7  font will make a  560x420  window (simple tiles)
+ * The  8x8  font will make a  640x480  window (simple tiles)
+ * The 10x10 font will make a  800x600  window (full tiles)
+ * The 12x12 font will make a  960x720  window (full tiles)
+ * The 14x14 font will make a 1120x840  window (full tiles)
+ * The 16x16 font will make a 1280x960  window (full tiles)
+ * The 18x18 font will make a 1440x1080 window (full tiles)
+ * The 20x20 font will make a 1600x1200 window (full tiles)
 
 Widescreen (16:9) resolutions:
-  The 16x12 font will make a  1280x720 window (full tiles),
-  The 17x12 font will make a  1360x720 window (full tiles),
+ * The 16x12 font will make a  1280x720 window (full tiles)
+ * The 17x12 font will make a  1360x720 window (full tiles)
 
 ----
 
