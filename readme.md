@@ -35,9 +35,9 @@ Widescreen (16:9) resolutions:
  * The 16x12 font will make a  1280x720 window (full tiles)
  * The 17x12 font will make a  1360x720 window (full tiles)
 
-----
-
 Detailed Credits:
+-----------------
+
  * All ASCII symbols/letters and lines made from scratch by Pilcrow.
 
  * Cogmind, dirt wall, dirt floor, regular floor, stairs, and all equipment
@@ -52,3 +52,11 @@ Detailed Credits:
 The above credits are 100% correct for the 12x12 font. The others sizes are
 based on the 12x12, but some tiles (such as walls and doors) have been re-drawn
 in other sizes while *mimicking* the 12x12 ones to eliminate any scaling blur.
+
+Licensing:
+----------
+
+All content created by myself (Pilcrow) is released under the [Creative Commons
+Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+(CC-BY) license. This means I must be credited but no other restrictions apply.
+Full legal code [here](https://creativecommons.org/licenses/by/4.0/legalcode).
