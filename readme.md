@@ -1,4 +1,4 @@
-Pilcrow's Cogmind-7DRL fonts, release 2017.Aug.03
+Pilcrow's Cogmind-7DRL fonts, release 2017.Aug.04
 -------------------------------------------------
 
 These fonts are intended for the 2012 7-Day Roguelike Challenge prototype of
@@ -30,6 +30,7 @@ Standard (4:3) resolutions:
  * The 16x16 font will make a 1280x960  window (full tiles)
  * The 18x18 font will make a 1440x1080 window (full tiles)
  * The 20x20 font will make a 1600x1200 window (full tiles)
+ * The 24x24 font will make a 1920x1440 window (full tiles)
 
 Widescreen (16:9) resolutions:
  * The 16x12 font will make a  1280x720 window (full tiles)
